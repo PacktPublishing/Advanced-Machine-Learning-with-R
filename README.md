@@ -10,7 +10,7 @@ This Learning Path shows you how to leverage the R ecosystem to build efficient 
 
 By the end of this Learning Path, you’ll be equipped with the skills you need to deploy machine learning techniques in your own projects
 <br>
-# Advanced Machine Learning with R by **Cory Lesmeister and Dr. Sunil Kumar Chinnamgari**
+**Advanced Machine Learning with R by Cory Lesmeister and Dr. Sunil Kumar Chinnamgari**
 
 ## What you will learn
 * Develop a joke recommendation engine to recommend jokes that match users’ tastes
