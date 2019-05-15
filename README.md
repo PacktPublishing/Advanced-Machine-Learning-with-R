@@ -9,7 +9,7 @@ R is one of the most popular languages when it comes to exploring the mathematic
 This Learning Path shows you how to leverage the R ecosystem to build efficient machine learning applications that carry out intelligent tasks within your organization. Starting with building powerful machine learning models with ensembles to predict employee attrition, you’ll explore different clustering techniques to segment customers using wholesale data and use TensorFlow and Keras-R for performing advanced computations. Each chapter will help you implement advanced machine learning algorithms using real-world examples. You’ll also be introduced to reinforcement learning along with its various use cases and models. Towards the concluding chapters, the book provides you with a glimpse into how some of these black-box models can be diagnosed and understood. 
 
 By the end of this Learning Path, you’ll be equipped with the skills you need to deploy machine learning techniques in your own projects
-<br>
+<br><br>
 **Advanced Machine Learning with R by Cory Lesmeister and Dr. Sunil Kumar Chinnamgari**
 
 ## What you will learn
