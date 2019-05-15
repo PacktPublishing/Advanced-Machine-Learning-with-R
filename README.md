@@ -1,3 +1,8 @@
+[![GitHub issues](https://img.shields.io/github/issues/PacktPublishing/Advanced-Machine-Learning-with-R.svg)](https://github.com/PacktPublishing/Advanced-Machine-Learning-with-R/issues)
+[![GitHub forks](https://img.shields.io/github/forks/PacktPublishing/Advanced-Machine-Learning-with-R.svg)](https://github.com/PacktPublishing/Advanced-Machine-Learning-with-R/network)
+[![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Advanced-Machine-Learning-with-R.svg)](https://github.com/PacktPublishing/Advanced-Machine-Learning-with-R/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/PacktPublishing/Advanced-Machine-Learning-with-R/pulls)
+
 # Advanced Machine Learning with R
 R is one of the most popular languages when it comes to exploring the mathematical side of machine learning and easily performing computational statistics. 
 
